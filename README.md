@@ -1,2 +1,2 @@
-# kodluyoruz-dev3
+# kodluyoruz-ödev3
 Ödev 3
