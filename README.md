@@ -14,7 +14,7 @@ index.html dosyalarını barındırıyor.
 
 Öncelikle projeyi klonlayın. 
 
-[https://github.com/elifzgnrl/kodluyoruz-odev2](https://github.com/elifzgnrl/kodluyoruz-odev2)
+[https://github.com/elifzgnrl/kodluyoruz--dev3](https://github.com/elifzgnrl/kodluyoruz--dev3)
   
 # Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
