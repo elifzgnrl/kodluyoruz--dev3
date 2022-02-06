@@ -12,7 +12,7 @@ tatli.html ve
 
 image dosyalarını barındırıyor.
 
-![](ekranalintisi.PNG)
+![](img/ekranalintisi.PNG)
 
 # Installation
 
