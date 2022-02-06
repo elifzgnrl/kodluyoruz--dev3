@@ -8,7 +8,7 @@ REDAME.md
 
 index.html dosyalarını barındırıyor.
 
-![](index.PNG)
+![](ekranalintisi.PNG)
 
 # Installation
 
