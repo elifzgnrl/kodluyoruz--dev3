@@ -14,14 +14,14 @@ index.html dosyalarını barındırıyor.
 
 Öncelikle projeyi klonlayın. 
 
-[https://github.com/elifzgnrl/kodluyoruz--dev3](https://github.com/elifzgnrl/kodluyoruz--dev3)
+[https://github.com/elifzgnrl/kodluyoruz-odev3](https://github.com/elifzgnrl/kodluyoruz-odev3)
   
 # Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-cd kodluyoruz--dev3
+cd kodluyoruz-odev3
 
 code .
 
