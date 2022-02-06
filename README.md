@@ -6,7 +6,11 @@ Proje içerik olarak;
 
 REDAME.md
 
-index.html dosyalarını barındırıyor.
+index.html 
+
+tatli.html ve
+
+image dosyalarını barındırıyor.
 
 ![](ekranalintisi.PNG)
 
