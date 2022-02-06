@@ -21,7 +21,7 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-cd kodluyoruz-odev2
+cd kodluyoruz--dev3
 
 code .
 
